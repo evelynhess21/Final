@@ -1,0 +1,10 @@
+.mb-2{
+    width: 500px;
+}
+/* last class applied to the picture */
+h2{
+    font-family: 'Comic Sans', 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: rgb(71, 52, 135) !important;
+}
